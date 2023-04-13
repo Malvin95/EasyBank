@@ -13,8 +13,35 @@
     justify-content: center;
 }
 
+.logoContainer {
+    display: flex;
+    width: 25%;
+    align-content: center;;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+}
+
+.navListContainer {
+    display: flex;
+    width: 50%;
+    align-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+}
+
+.btnContainer {
+    display: flex;
+    width: 25%;
+    align-content: center;;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+}
+
 .listContainer {
-    width: 100%;
+    width: 65%;
     height: 100%;
     justify-content: space-between;
     display: flex;
