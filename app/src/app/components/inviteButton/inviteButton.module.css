@@ -15,7 +15,8 @@
     text-align: center;
     text-decoration: none;
 
-    height: 35px;
+    height: 40px;
+    width: 160px;
 }
 
 .inviteBtnContainer:hover {
